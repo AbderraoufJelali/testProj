@@ -1,4 +1,5 @@
 <?php
+// la connexion à la base 
 include('db.php');
 if($_POST['id'])
 {
